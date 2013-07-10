@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.551521502,
+                    13.8794917650001
+                ]
+            },
+            "properties": {
+                "name": "สำนักงานใหญ่การประปานครหลวง",
+                "branch_id": "HO",
+                "population": 25067407,
+                "scale_factor": 0.6,
+                "pop_0_14": 47,
+                "pop_15_59": 49.3,
+                "pop_60_above": 3.7
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.537994247,
+                    13.823173157
+                ]
+            },
+            "properties": {
+                "name": "สำนักงานประปาสาขาประชาชื่น",
+                "branch_id": "B15",
+                "population": 3153731,
+                "scale_factor": 0.8,
+                "pop_0_14": 20,
+                "pop_15_59": 70,
+                "pop_60_above": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.471572688,
+                    13.759768728
+                ]
+            },
+            "properties": {
+                "name": "สำนักงานประปาสาขาบางกอกน้อย",
+                "branch_id": "B01",
+                "population": 3153731,
+                "scale_factor": 1,
+                "pop_0_14": 25,
+                "pop_15_59": 50,
+                "pop_60_above": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.594571816,
+                    13.8764571010001
+                ]
+            },
+            "properties": {
+                "name": "สำนักงานประปาสาขาบางเขน",
+                "branch_id": "B16",
+                "population": 3153731,
+                "scale_factor": 0.5,
+                "pop_0_14": 25,
+                "pop_15_59": 50,
+                "pop_60_above": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.406773766,
+                    13.7245080760001
+                ]
+            },
+            "properties": {
+                "name": "สำนักงานประปาสาขาภาษีเจริญ",
+                "branch_id": "B54",
+                "population": 3153731,
+                "scale_factor": 0.5,
+                "pop_0_14": 25,
+                "pop_15_59": 50,
+                "pop_60_above": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.467240503,
+                    13.6766893990001
+                ]
+            },
+            "properties": {
+                "name": "สำนักงานประปาสาขาตากสิน",
+                "branch_id": "B02",
+                "population": 3153731,
+                "scale_factor": 0.7,
+                "pop_0_14": 25,
+                "pop_15_59": 50,
+                "pop_60_above": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.599290249,
+                    13.7080078720001
+                ]
+            },
+            "properties": {
+                "name": "สำนักงานประปาสาขาพระโขนง",
+                "branch_id": "B13",
+                "population": 3153731,
+                "scale_factor": 0.4,
+                "pop_0_14": 25,
+                "pop_15_59": 50,
+                "pop_60_above": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.599320203,
+                    13.7080076780001
+                ]
+            },
+            "properties": {
+                "name": "สำนักงานประปาสาขาสุขุมวิท",
+                "branch_id": "B07",
+                "population": 3153731,
+                "scale_factor": 0.8,
+                "pop_0_14": 15,
+                "pop_15_59": 50,
+                "pop_60_above": 35
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.599320203,
+                    13.7080076780001
+                ]
+            },
+            "properties": {
+                "name": "สำนักงานประปาสาขาพญาไท",
+                "branch_id": "B03",
+                "population": 3153731,
+                "scale_factor": 0.7,
+                "pop_0_14": 25,
+                "pop_15_59": 50,
+                "pop_60_above": 25
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.539539691,
+                    13.7154926630001
+                ]
+            },
+            "properties": {
+                "name": "สำนักงานประปาสาขาทุ่งมหาเมฆ",
+                "branch_id": "B05",
+                "population": 3153731,
+                "scale_factor": 0.7,
+                "pop_0_14": 25,
+                "pop_15_59": 50,
+                "pop_60_above": 25
+            }
+        }
+    ]
+}
+
